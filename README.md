@@ -5,7 +5,6 @@
 -----------------
 
 * [Introduction](#introduction)
-* [Project Structure](#project-structure)
 * [Finding Projects](#finding-projects)
 * [Getting Started](#getting-started)
 * [Contribution Guidelines](#contribution-guidelines)
@@ -17,7 +16,7 @@
 
 Welcome to the React Projects Collection, a curated repository of various projects to help you enhance your React skills. This collection caters to developers of all levels, from beginners to advanced practitioners.
 
-## Project Structure
+## Finding Projects
 -------------------
 
 Our projects are organized to facilitate easy discovery. Please refer to the [projects/](projects/) directory for the following structures:
@@ -25,39 +24,6 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Name** | **Level** | **Details** |
 | --- | --- | --- |
 | **Todo List App** | **Newbie** | [View Details](projects/newbie/todo-list-app/README.md) |
-
-## Finding Projects
-------------------
-
-* Browse the [projects/](projects/) directory to explore our collection.
-* Use the **README** files within each project directory for detailed information.
-
-#This is the folder structure for the projects
-
-* projects/
-├── **newbie**
-│   ├── **todo-list-app**
-│   │   ├── README.md
-│   ├── **hello-world-app**
-│   │   ├── README.md
-
-├── **beginner**
-│   ├── **weather-app**
-│   │   ├── README.md
-│   ├── **simple-game-app**
-│   │   ├── README.md
-
-├── **intermediate**
-│   ├── **e-commerce-site**
-│   │   ├── README.md
-│   ├── **blogging-platform**
-│   │   ├── README.md
-
-├── **advanced**
-│   ├── **machine-learning-app**
-│   │   ├── README.md
-│   ├── **real-time-analytics-dashboard**
-│   │   ├── README.md
 
 
 ## Getting Started
