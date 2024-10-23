@@ -23,7 +23,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 
 | **Name** | **Level** | **Details** |
 | --- | --- | --- |
-| **Todo List App** | **Newbie** | [View Details](projects/newbie/todo-list-app/README.md) |
+| **Todo List App** | **Newbie** | [View Details](projects/beginner//README.md) |
 
 
 ## Getting Started
