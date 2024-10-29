@@ -27,9 +27,10 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Cine Search** | **Beginner** | [View Details](projects/beginner/cinesearch.md) |
 | **Expense Tracker** | **Beginner** | [View Details](projects/beginner/ExpenceTracker.md) |
 | **WeatherGeo** | **Beginner** | [View Details](projects/beginner/WeatherGeo.md) |
+| **GitHubProfiler** | **Beginner** | [View Details](projects/beginner/GitHubProfiler.md) |
 
 
-3
+
 ## Getting Started
 -----------------
 
