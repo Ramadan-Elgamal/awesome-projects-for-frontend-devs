@@ -25,6 +25,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | --- | --- | --- |
 | **Quick Mark** | **Beginner** | [View Details](projects/beginner/quickmark.md) |
 | **Cine Search** | **Beginner** | [View Details](projects/beginner/cinesearch.md) |
+| **Expense Tracker** | **Beginner** | [View Details](projects/beginner/ExpenceTracker.md) |
 
 
 
