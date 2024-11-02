@@ -25,10 +25,10 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | --- | --- | --- |
 | **Quick Mark** | **Beginner** | [View Details](projects/beginner/quickmark.md) |
 | **Cine Search** | **Beginner** | [View Details](projects/beginner/cinesearch.md) |
-| **Expense Tracker** | **Beginner** | [View Details](projects/beginner/ExpenceTracker.md) |
-| **WeatherGeo** | **Beginner** | [View Details](projects/beginner/WeatherGeo.md) |
-| **GitHubProfiler** | **Beginner** | [View Details](projects/beginner/GitHubProfiler.md) |
-
+| **Book Voyage** | **Beginner** | [View Details](projects/beginner/BookVoyage.md) |
+| **WeatherGeo** | **Intermediate** | [View Details](projects/beginner/WeatherGeo.md) |
+| **GitHubProfiler** | **Intermediate** | [View Details](projects/beginner/GitHubProfiler.md) |
+| **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenceTracker.md) |
 
 
 ## Getting Started
