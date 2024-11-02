@@ -28,7 +28,8 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Book Voyage** | **Beginner** | [View Details](projects/beginner/BookVoyage.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
-| **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenceTracker.md)|
+| **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
+
 
 
 ## Getting Started
