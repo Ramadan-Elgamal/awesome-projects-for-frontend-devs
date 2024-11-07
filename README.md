@@ -28,6 +28,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Book Voyage** | **Beginner** | [View Details](projects/beginner/BookVoyage.md) |
 | **Quote Sparkle** | **Beginner** | [View Details](projects/beginner/QuoteSparkle.md) |
 | **StopWatch** | **Beginner** | [View Details](projects/beginner/StopWatch.md) |
+| **ColorWave** | **Beginner** | [View Details](projects/beginner/ColorWave.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
