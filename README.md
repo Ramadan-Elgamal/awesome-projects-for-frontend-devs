@@ -37,6 +37,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
+| **SoundWave** | **Intermediate** | [View Details](projects/intermediate/SoundWave.md) |
 
 
 
