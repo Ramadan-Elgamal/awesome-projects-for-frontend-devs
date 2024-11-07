@@ -26,6 +26,8 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Quick Mark** | **Beginner** | [View Details](projects/beginner/quickmark.md) |
 | **Cine Search** | **Beginner** | [View Details](projects/beginner/cinesearch.md) |
 | **Book Voyage** | **Beginner** | [View Details](projects/beginner/BookVoyage.md) |
+| **Quote Sparkle ** | **Beginner** | [View
+Details](projects/beginner/QuoteSparkle.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
