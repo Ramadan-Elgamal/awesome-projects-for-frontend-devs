@@ -29,6 +29,8 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Quote Sparkle** | **Beginner** | [View Details](projects/beginner/QuoteSparkle.md) |
 | **StopWatch** | **Beginner** | [View Details](projects/beginner/StopWatch.md) |
 | **ColorWave** | **Beginner** | [View Details](projects/beginner/ColorWave.md) |
+| **Laugh Line** | **Beginner** | [View Details](projects/beginner/LaughLine.md) |
+
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
