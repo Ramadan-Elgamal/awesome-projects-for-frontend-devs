@@ -31,6 +31,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **ColorWave** | **Beginner** | [View Details](projects/beginner/ColorWave.md) |
 | **Laugh Line** | **Beginner** | [View Details](projects/beginner/LaughLine.md) |
 | **Quizy** | **Beginner** | [View Details](projects/beginner/Quizy.md) |
+| **CalcMate** | **Beginner** | [View Details](projects/beginner/CalcMate.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
