@@ -40,7 +40,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **SoundWave** | **Intermediate** | [View Details](projects/intermediate/SoundWave.md) |
 | **MarkoEditor** | **Intermediate** | [View Details](projects/intermediate/MarkoEditor.md) |
 | **Convertify** | **Intermediate** | [View Details](projects/intermediate/Convertify.md) |
-
+| **ChatSphere** | **Expert** | [View Details](projects/experr/ChatSphere.md) |
 
 
 ## Getting Started
