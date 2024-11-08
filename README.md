@@ -39,6 +39,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
 | **SoundWave** | **Intermediate** | [View Details](projects/intermediate/SoundWave.md) |
 | **MarkoEditor** | **Intermediate** | [View Details](projects/intermediate/MarkoEditor.md) |
+| **Convertify** | **Intermediate** | [View Details](projects/intermediate/Convertify.md) |
 
 
 
