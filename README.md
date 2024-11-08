@@ -42,6 +42,8 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Convertify** | **Intermediate** | [View Details](projects/intermediate/Convertify.md) |
 | **CineList** | **Intermediate** | [View
 Details](projects/intermediate/CineList.md) |
+| **PortfoliaHub** | **Intermediate** | [View
+Details](projects/intermediate/PortfoliaHub.md) |
 | **ChatSphere** | **Expert** | [View Details](projects/experr/ChatSphere.md) |
 
 
