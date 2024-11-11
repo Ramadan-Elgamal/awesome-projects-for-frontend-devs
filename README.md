@@ -34,19 +34,31 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **CalcMate** | **Beginner** | [View Details](projects/beginner/CalcMate.md) |
 | **TempSwitch** | **Beginner** | [View Details](projects/beginner/TempSwitch.md) |
 | **TaskKeeper** | **Beginner** | [View Details](projects/beginner/TaskKeeper.md) |
+| **WordWiz** | **Beginner** | [View Details](projects/beginner/WordWiz.md) |
+| **HandClash** | **Beginner** | [View Details](projects/beginner/HandClash.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
 | **SoundWave** | **Intermediate** | [View Details](projects/intermediate/SoundWave.md) |
 | **MarkoEditor** | **Intermediate** | [View Details](projects/intermediate/MarkoEditor.md) |
 | **Convertify** | **Intermediate** | [View Details](projects/intermediate/Convertify.md) |
-| **CineList** | **Intermediate** | [View
-Details](projects/intermediate/CineList.md) |
-| **PortfoliaHub** | **Intermediate** | [View
-Details](projects/intermediate/PortfoliaHub.md) |
-| **ChatSphere** | **Expert** | [View Details](projects/experr/ChatSphere.md) |
+| **CineList** | **Intermediate** | [View Details](projects/intermediate/CineList.md) |
+| **PortfoliaHub** | **Intermediate** | [View Details](projects/intermediate/PortfoliaHub.md) |
+| **Cardify** | **Intermediate** | [View Details](projects/intermediate/Cardify.md) |
+| **SnapView** | **Intermediate** | [View
+Details](projects/intermediate/SnapView.md) |
+| **LyricQuest** | **Intermediate** | [View
+Details](projects/intermediate/LyricQuest.md) |
+| **StepSubmit** | **Intermediate** | [View
+Details](projects/intermediate/StepSubmit.md) |
+| **ChatSphere** | **Expert** | [View Details](projects/expert/ChatSphere.md) |
+| **DriveIt** | **Expert** | [View Details](projects/expert/DriveIt.md) |
+| **ChatHive** | **Expert** | [View Details](projects/expert/ChatHive.md) |
+| **SkyBook** | **Expert** | [View Details](projects/expert/SkyBook.md) |
+| **TubeCast** | **Expert** | [View Details](projects/expert/TubeCast.md) |
 
-
+complete add cardify, DriveIt, WordWiz, ChatHive, SnapView, LyricQuest, SkyBook,
+TubeCast, StepSubmit, HandClash
 ## Getting Started
 -----------------
 
