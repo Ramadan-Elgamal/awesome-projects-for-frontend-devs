@@ -45,20 +45,15 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **CineList** | **Intermediate** | [View Details](projects/intermediate/CineList.md) |
 | **PortfoliaHub** | **Intermediate** | [View Details](projects/intermediate/PortfoliaHub.md) |
 | **Cardify** | **Intermediate** | [View Details](projects/intermediate/Cardify.md) |
-| **SnapView** | **Intermediate** | [View
-Details](projects/intermediate/SnapView.md) |
-| **LyricQuest** | **Intermediate** | [View
-Details](projects/intermediate/LyricQuest.md) |
-| **StepSubmit** | **Intermediate** | [View
-Details](projects/intermediate/StepSubmit.md) |
+| **SnapView** | **Intermediate** | [View Details](projects/intermediate/SnapView.md) |
+| **LyricQuest** | **Intermediate** | [View Details](projects/intermediate/LyricQuest.md) |
+| **StepSubmit** | **Intermediate** | [View Details](projects/intermediate/StepSubmit.md) |
 | **ChatSphere** | **Expert** | [View Details](projects/expert/ChatSphere.md) |
 | **DriveIt** | **Expert** | [View Details](projects/expert/DriveIt.md) |
 | **ChatHive** | **Expert** | [View Details](projects/expert/ChatHive.md) |
 | **SkyBook** | **Expert** | [View Details](projects/expert/SkyBook.md) |
 | **TubeCast** | **Expert** | [View Details](projects/expert/TubeCast.md) |
 
-complete add cardify, DriveIt, WordWiz, ChatHive, SnapView, LyricQuest, SkyBook,
-TubeCast, StepSubmit, HandClash
 ## Getting Started
 -----------------
 
