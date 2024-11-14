@@ -36,6 +36,8 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **TaskKeeper** | **Beginner** | [View Details](projects/beginner/TaskKeeper.md) |
 | **WordWiz** | **Beginner** | [View Details](projects/beginner/WordWiz.md) |
 | **HandClash** | **Beginner** | [View Details](projects/beginner/HandClash.md) |
+| **QuickQR** | **Beginner** | [View Details](projects/beginner/QuickQR.md) |
+| **Avatario** | **Beginner** | [View Details](projects/beginner/Avatario.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
@@ -48,12 +50,22 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **SnapView** | **Intermediate** | [View Details](projects/intermediate/SnapView.md) |
 | **LyricQuest** | **Intermediate** | [View Details](projects/intermediate/LyricQuest.md) |
 | **StepSubmit** | **Intermediate** | [View Details](projects/intermediate/StepSubmit.md) |
+| **CryptoTrack** | **Intermediate** | [View Details](projects/intermediate/CryptoTrack.md) |
+| **SketchIt** | **Intermediate** | [View Details](projects/intermediate/SketchIt.md) |
+| **WordQuest** | **Intermediate** | [View Details](projects/intermediate/WordQuest.md) |
+| **Eventy** | **Intermediate** | [View Details](projects/intermediate/Eventy.md) |
+| **SurveyGenie** | **Intermediate** | [View Details](projects/intermediate/SurveyGenie.md) |
+| **EmojiExplorer** | **Intermediate** | [View Details](projects/intermediate/EmojiExplorer.md) |
+| **TypeMaster** | **Intermediate** | [View Details](projects/intermediate/TypeMaster.md) |
 | **ChatSphere** | **Expert** | [View Details](projects/expert/ChatSphere.md) |
 | **DriveIt** | **Expert** | [View Details](projects/expert/DriveIt.md) |
 | **ChatHive** | **Expert** | [View Details](projects/expert/ChatHive.md) |
 | **SkyBook** | **Expert** | [View Details](projects/expert/SkyBook.md) |
 | **TubeCast** | **Expert** | [View Details](projects/expert/TubeCast.md) |
 
+
+complete add QuickQR, Avatario,CryptoTrack
+, SketchIt, WordQuest, Eventy, SurveyGenie, EmojiExplorer, TypeMaster
 ## Getting Started
 -----------------
 
