@@ -38,6 +38,8 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **HandClash** | **Beginner** | [View Details](projects/beginner/HandClash.md) |
 | **QuickQR** | **Beginner** | [View Details](projects/beginner/QuickQR.md) |
 | **Avatario** | **Beginner** | [View Details](projects/beginner/Avatario.md) |
+| **Memory Game** | **Beginner** | [View Details](projects/beginner/MemoryGame.md) |
+| **NewsHub** | **Beginner** | [View Details](projects/beginner/NewsHub.md) |
 | **WeatherGeo** | **Intermediate** | [View Details](projects/intermediate/WeatherGeo.md) |
 | **GitHubProfiler** | **Intermediate** | [View Details](projects/intermediate/GitHubProfiler.md) |
 | **Expense Tracker** | **Intermediate** | [View Details](projects/intermediate/ExpenseTracker.md) |
@@ -57,15 +59,22 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **SurveyGenie** | **Intermediate** | [View Details](projects/intermediate/SurveyGenie.md) |
 | **EmojiExplorer** | **Intermediate** | [View Details](projects/intermediate/EmojiExplorer.md) |
 | **TypeMaster** | **Intermediate** | [View Details](projects/intermediate/TypeMaster.md) |
+| **Event CountDown** | **Intermediate** | [View Details](projects/intermediate/EventCountDown.md) |
+| **SpeedType** | **Intermediate** | [View Details](projects/intermediate/SpeedType.md) |
+| **GoalPath** | **Intermediate** | [View Details](projects/intermediate/GoalPath.md) |
+| **Bloggy** | **Intermediate** | [View Details](projects/intermediate/Bloggy.md) |
+| **QuickBooker** | **Intermediate** | [View Details](projects/intermediate/QuickBooker.md) |
+| **Mortgage Master** | **Intermediate** | [View Details](projects/intermediate/MortgageMaster.md) |
+| **Palette Wizard** | **Intermediate** | [View Details](projects/intermediate/PaletteWizard.md) |
 | **ChatSphere** | **Expert** | [View Details](projects/expert/ChatSphere.md) |
 | **DriveIt** | **Expert** | [View Details](projects/expert/DriveIt.md) |
 | **ChatHive** | **Expert** | [View Details](projects/expert/ChatHive.md) |
 | **SkyBook** | **Expert** | [View Details](projects/expert/SkyBook.md) |
 | **TubeCast** | **Expert** | [View Details](projects/expert/TubeCast.md) |
+| **MindFlow** | **Expert** | [View Details](projects/expert/MindFlow.md) |
 
-
-complete add QuickQR, Avatario,CryptoTrack
-, SketchIt, WordQuest, Eventy, SurveyGenie, EmojiExplorer, TypeMaster
+complete add EventCountDown, SpeedType, GoalPath, MemoryGame, Bloggy, NewsHub,
+QuickBooker, MortgageMaster, PaletteWizard, MindFlow
 ## Getting Started
 -----------------
 
