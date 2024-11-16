@@ -66,6 +66,12 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **QuickBooker** | **Intermediate** | [View Details](projects/intermediate/QuickBooker.md) |
 | **Mortgage Master** | **Intermediate** | [View Details](projects/intermediate/MortgageMaster.md) |
 | **Palette Wizard** | **Intermediate** | [View Details](projects/intermediate/PaletteWizard.md) |
+| **SnipVault** | **Intermediate** | [View Details](projects/intermediate/SnipVault.md) |
+| **GardenHub** | **Intermediate** | [View Details](projects/intermediate/GardenHub.md) |
+| **MealWise** | **Intermediate** | [View Details](projects/intermediate/MealWise.md) |
+| **Portfolia** | **Intermediate** | [View Details](projects/intermediate/Portfolia.md) |
+| **Translately** | **Intermediate** | [View Details](projects/intermediate/Translately.md) |
+| **Voicslize** | **Intermediate** | [View Details](projects/intermediate/Voicslize.md) |
 | **ChatSphere** | **Expert** | [View Details](projects/expert/ChatSphere.md) |
 | **DriveIt** | **Expert** | [View Details](projects/expert/DriveIt.md) |
 | **ChatHive** | **Expert** | [View Details](projects/expert/ChatHive.md) |
@@ -73,8 +79,7 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **TubeCast** | **Expert** | [View Details](projects/expert/TubeCast.md) |
 | **MindFlow** | **Expert** | [View Details](projects/expert/MindFlow.md) |
 
-complete add EventCountDown, SpeedType, GoalPath, MemoryGame, Bloggy, NewsHub,
-QuickBooker, MortgageMaster, PaletteWizard, MindFlow
+complete add SnipVault, GardenHub, MealWise, Portfolia, Translately, Voicslize
 ## Getting Started
 -----------------
 
