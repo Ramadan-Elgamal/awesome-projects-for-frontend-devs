@@ -72,14 +72,25 @@ Our projects are organized to facilitate easy discovery. Please refer to the [pr
 | **Portfolia** | **Intermediate** | [View Details](projects/intermediate/Portfolia.md) |
 | **Translately** | **Intermediate** | [View Details](projects/intermediate/Translately.md) |
 | **Voicslize** | **Intermediate** | [View Details](projects/intermediate/Voicslize.md) |
+| **SplitWise** | **Intermediate** | [View Details](projects/expert/SplitWise.md) |
+| **LearnHub** | **Intermediate** | [View Details](projects/expert/LearnHub.md) |
 | **ChatSphere** | **Expert** | [View Details](projects/expert/ChatSphere.md) |
 | **DriveIt** | **Expert** | [View Details](projects/expert/DriveIt.md) |
 | **ChatHive** | **Expert** | [View Details](projects/expert/ChatHive.md) |
 | **SkyBook** | **Expert** | [View Details](projects/expert/SkyBook.md) |
 | **TubeCast** | **Expert** | [View Details](projects/expert/TubeCast.md) |
 | **MindFlow** | **Expert** | [View Details](projects/expert/MindFlow.md) |
+| **Resumify** | **Expert** | [View Details](projects/expert/Resumify.md) |
+| **CaptureX** | **Expert** | [View Details](projects/expert/CaptureX.md) |
+| **Roomify** | **Expert** | [View Details](projects/expert/Roomify.md) |
+| **Pomodoro** | **Expert** | [View Details](projects/expert/Pomodoro.md) |
+| **DonorSphere** | **Expert** | [View Details](projects/expert/DonorSphere.md) |
+| **Artistry** | **Expert** | [View Details](projects/expert/Artistry.md) |
+| **LearnHub** | **Expert** | [View Details](projects/expert/LearnHub.md) |
+| **PetCarePro** | **Expert** | [View Details](projects/expert/PetCarePro.md) |
 
-complete add SnipVault, GardenHub, MealWise, Portfolia, Translately, Voicslize
+complete add Resumify, CaptureX, Roomify, Pomodoro, DonorSphere, Artistry,
+LearnHub, SplitWise, PriceCheck, PetCarePro
 ## Getting Started
 -----------------
 
